@@ -35,3 +35,4 @@ Things I plan to improve later:
 5. Multiple enemies
 
 Built by A. De Beaumont
+(First steps into programming & game development) 

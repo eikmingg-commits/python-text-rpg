@@ -34,6 +34,4 @@ Things I plan to improve later:
 4. Items / healing
 5. Multiple enemies
 
-Author
-  Built by
-   A. De Beaumont
+Built by A. De Beaumont
